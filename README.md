@@ -59,5 +59,7 @@ Self-studying "The Web Developer Bootcamp" by Colt Steele on Udemy
 - [x] Media Queries
 
 ### Section 10: Pricing Panel Project
-- [ ] TODO! 
+- [x] Pricing Panel Project
 
+### Section 11: Bootstrap
+- [ ] TODO!  
