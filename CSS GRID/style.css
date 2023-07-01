@@ -16,6 +16,8 @@ body {
   max-width: 960px;
   margin: 100px auto;
   padding: 10px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
 }
 
 .item {
@@ -23,4 +25,5 @@ body {
   color: #fff;
   font-size: 20px;
   padding: 20px;
+  border: pink 1px solid;
 }
